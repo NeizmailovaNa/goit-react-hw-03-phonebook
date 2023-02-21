@@ -1,0 +1,8 @@
+.phonebook,
+.contacts{
+    display: inline-block;
+    font-size: 56px;
+    color: rgb(37, 91, 149);
+    margin-bottom: 30px;
+    margin-top: 30px
+};
